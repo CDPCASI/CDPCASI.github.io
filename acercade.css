@@ -18,7 +18,8 @@
     text-align: center;
     margin: auto;
     margin-bottom: 0;
-    padding-bottom: 300px; /*Información*/
+    padding-bottom: 300px;
+    padding-top: 300px ; /*Información*/
 }
 
 p{
@@ -27,6 +28,11 @@ p{
     font-weight: 300;
     line-height: 22px; /*Párrafo*/
     padding: 10px;
+}
+
+header{
+    padding: 10px;
+    margin-top: -170px;
 }
 
 h1{
@@ -38,12 +44,13 @@ h1{
 h2{
     color:white; /*Texto h2*/
     margin-right: 65%;
-    margin-top: 15%;
+    margin-top: 2%;
 }
 
 h3{
     color:white; /*Texto h3*/
     margin-left: 65%;
+    margin-top: -145px;
 }
 
 h5{
@@ -63,18 +70,10 @@ p{
     overflow: hidden;
 }
 
-.content{
-    width: 80%;
-    margin: auto;
-    text-align: center;
-    padding-bottom: 1px; /*Contenido*/
-}
-
 table{
     color:whitesmoke;
     text-align: center; 
     margin-right: 0 auto; /*Tabla*/
     display: table;
+    margin-top: 1px;
 }
-
-
