@@ -1,0 +1,2 @@
+-Validadores el index (corregir)
+-Documentación técnica (Terminar Acerca De)
